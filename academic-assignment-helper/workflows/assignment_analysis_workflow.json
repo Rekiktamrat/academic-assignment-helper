@@ -1,7 +1,0 @@
-{
-  "name": "Assignment Analysis Workflow",
-  "description": "Placeholder for n8n workflow integrating FastAPI endpoints for assignment upload, plagiarism analysis, and RAG-based feedback.",
-  "nodes": [],
-  "connections": {},
-  "status": "not_yet_configured"
-}
